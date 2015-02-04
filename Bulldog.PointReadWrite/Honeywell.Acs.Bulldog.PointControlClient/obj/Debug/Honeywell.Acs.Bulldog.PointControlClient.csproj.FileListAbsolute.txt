@@ -1,0 +1,11 @@
+C:\Codebase\Samples\Bulldog.PointReadWrite\Honeywell.Acs.Bulldog.PointControlClient\bin\Debug\Honeywell.Acs.Bulldog.PointControlClient.dll
+C:\Codebase\Samples\Bulldog.PointReadWrite\Honeywell.Acs.Bulldog.PointControlClient\bin\Debug\Honeywell.Acs.Bulldog.PointControlClient.pdb
+C:\Codebase\Samples\Bulldog.PointReadWrite\Honeywell.Acs.Bulldog.PointControlClient\bin\Debug\Cloud.Platform.Authentication.dll
+C:\Codebase\Samples\Bulldog.PointReadWrite\Honeywell.Acs.Bulldog.PointControlClient\bin\Debug\RestSharp.dll
+C:\Codebase\Samples\Bulldog.PointReadWrite\Honeywell.Acs.Bulldog.PointControlClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Codebase\Samples\Bulldog.PointReadWrite\Honeywell.Acs.Bulldog.PointControlClient\bin\Debug\Cloud.Platform.Authentication.pdb
+C:\Codebase\Samples\Bulldog.PointReadWrite\Honeywell.Acs.Bulldog.PointControlClient\bin\Debug\RestSharp.xml
+C:\Codebase\Samples\Bulldog.PointReadWrite\Honeywell.Acs.Bulldog.PointControlClient\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Codebase\Samples\Bulldog.PointReadWrite\Honeywell.Acs.Bulldog.PointControlClient\obj\Debug\Honeywell.Acs.Bulldog.PointControlClient.csprojResolveAssemblyReference.cache
+C:\Codebase\Samples\Bulldog.PointReadWrite\Honeywell.Acs.Bulldog.PointControlClient\obj\Debug\Honeywell.Acs.Bulldog.PointControlClient.dll
+C:\Codebase\Samples\Bulldog.PointReadWrite\Honeywell.Acs.Bulldog.PointControlClient\obj\Debug\Honeywell.Acs.Bulldog.PointControlClient.pdb

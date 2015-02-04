@@ -1,0 +1,14 @@
+C:\Codebase\Samples\Bulldog.PointReadWrite\Bulldog.PointReadWrite\bin\Debug\Bulldog.PointReadWrite.exe.config
+C:\Codebase\Samples\Bulldog.PointReadWrite\Bulldog.PointReadWrite\bin\Debug\Bulldog.PointReadWrite.exe
+C:\Codebase\Samples\Bulldog.PointReadWrite\Bulldog.PointReadWrite\bin\Debug\Bulldog.PointReadWrite.pdb
+C:\Codebase\Samples\Bulldog.PointReadWrite\Bulldog.PointReadWrite\bin\Debug\Cloud.Platform.Authentication.dll
+C:\Codebase\Samples\Bulldog.PointReadWrite\Bulldog.PointReadWrite\bin\Debug\Honeywell.Acs.Bulldog.PointControlClient.dll
+C:\Codebase\Samples\Bulldog.PointReadWrite\Bulldog.PointReadWrite\bin\Debug\RestSharp.dll
+C:\Codebase\Samples\Bulldog.PointReadWrite\Bulldog.PointReadWrite\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Codebase\Samples\Bulldog.PointReadWrite\Bulldog.PointReadWrite\bin\Debug\Honeywell.Acs.Bulldog.PointControlClient.pdb
+C:\Codebase\Samples\Bulldog.PointReadWrite\Bulldog.PointReadWrite\bin\Debug\Cloud.Platform.Authentication.pdb
+C:\Codebase\Samples\Bulldog.PointReadWrite\Bulldog.PointReadWrite\bin\Debug\RestSharp.xml
+C:\Codebase\Samples\Bulldog.PointReadWrite\Bulldog.PointReadWrite\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Codebase\Samples\Bulldog.PointReadWrite\Bulldog.PointReadWrite\obj\Debug\Bulldog.PointReadWrite.csprojResolveAssemblyReference.cache
+C:\Codebase\Samples\Bulldog.PointReadWrite\Bulldog.PointReadWrite\obj\Debug\Bulldog.PointReadWrite.exe
+C:\Codebase\Samples\Bulldog.PointReadWrite\Bulldog.PointReadWrite\obj\Debug\Bulldog.PointReadWrite.pdb
